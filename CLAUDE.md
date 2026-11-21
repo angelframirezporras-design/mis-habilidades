@@ -8,4 +8,6 @@
 - Con cada guion, entregar además una referencia escrita de la IMAGEN INICIAL del Short y del video:
   cómo se ve el primer cuadro (personaje 0, pose, fondo, elementos, texto en pantalla si lo hay, colores),
   en el estilo del canal: ilustración 2D, trazo grueso, colores planos.
+- Con cada guion, entregar también: título principal, descripción MUY breve (1–2 frases) y máximo 5 etiquetas
+  con # delante, sin espacios (ej. #QuePasariaSi).
 - Nunca inventar cifras, fechas ni fuentes; listar los datos a verificar fuera del guion.
